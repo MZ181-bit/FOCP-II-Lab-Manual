@@ -6,9 +6,8 @@ Semester: 2nd Semester
 
 This repository contains all C++ lab manual and classwork programs.
 
-All programs are inside their respective folder:
-Lab-Manual-Programs,classwork
+All programs are inside the folder:
+Lab-Manual-Programs
 
 Total Programs: 40 - lab manual programme
-Classwork Programs: 
 Language Used: C++
